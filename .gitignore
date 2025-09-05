@@ -3,3 +3,5 @@
 *.csv
 **/__pycache__
 CAFE Comment Pulling Tool/_scalars.R
+CAFE Comment Pulling Tool/_scalars.R
+openai_key.txt
