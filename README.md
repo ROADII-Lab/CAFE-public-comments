@@ -157,7 +157,6 @@ Data for this project was supplied by the CAFE public comments team. All data is
 
 **Retention:** This project will likely remain publicly accessible indefinitely.
 
-**Release History:**  See [CHANGELOG.md](CHANGELOG.md)**
 
 ## License
 
@@ -172,8 +171,6 @@ Please read [CONTRIBUTING.md] for details on our Code of Conduct, the process fo
 Contact Name: Eric Englin
 Contact Information: <Eric.Englin@dot.gov>
 
-Contact Name: Andrew DeCandia
-Contact Information: <Andrew.DeCandia@dot.gov>
 
 ## Acknowledgements
 
