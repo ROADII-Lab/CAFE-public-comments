@@ -151,9 +151,9 @@ Data for this project was supplied by the CAFE public comments team. All data is
 
 ## Version History and Retention
 
-**Status:** This project is in active development phase.
+**Status:** This project is complete. 
 
-**Release Frequency:** This project will be updated when there are stable developments. This will be approximately every month.
+**Release Frequency:** This project is complete. 
 
 **Retention:** This project will likely remain publicly accessible indefinitely.
 
